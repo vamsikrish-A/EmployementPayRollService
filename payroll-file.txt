@@ -1,0 +1,3 @@
+EmployeePayrollData [id=1, name jeff Bezos, salary 100000.0]
+EmployeePayrollData [id=2, name Elon musk, salary 300000.0]
+EmployeePayrollData [id=3, name mark, salary 200000.0]
